@@ -16,6 +16,6 @@ resource "azurerm_storage_account" "first_storage" {
 }
 
 resource "azurerm_storage_container" "first_container" {
-  name                 = ""
+  name                 = "imagens" #nome assumido pelo container
   storage_account_name = azurerm_storage_account.first_storage.name
 }
