@@ -12,5 +12,7 @@ docker run -it --name terraform -v `pwd`:/app/curso-terraform --entrypoint /bin/
 * **-v** - flag para criação do volume, ou seja, para atualização do conteudo atual para dentro do container
 * **pwd** - caminho absoluto do diretorio (/home/usuario/demaisdiretorios)
 * **/app/curso-terraform** - onde estarão os arquivos do volume criado
-* **--entrypoint** - flag que aponta qual arquivo será rodado quando o container subir
+* **--entrypoint** - flag que aponta qual arquivo será iniciado quando o container subir
 * **hashicorp/terraform** - imagem utilizada para a criaçao do container
+
+[Imagem Oficial Terraform](https://hub.docker.com/r/hashicorp/terraform/)

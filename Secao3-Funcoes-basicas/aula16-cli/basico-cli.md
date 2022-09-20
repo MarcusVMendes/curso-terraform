@@ -15,3 +15,5 @@ Realiza o delete da infra. Primeiro irá verificar o que será alterado (plan) e
 
 ## fmt
 Comando utilizado para formatar a identação do código.
+
+[Documentação CLI](https://www.terraform.io/cli)

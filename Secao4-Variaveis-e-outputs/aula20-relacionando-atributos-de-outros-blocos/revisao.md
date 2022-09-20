@@ -16,3 +16,4 @@ Desse modo, teremos acesso ao valor do atributo name no bloco em que queremos ut
 
 ##### OBSERVAÇÃO: A Storage Account da Azure não permite caracteres especiais nem espaços.
 
+[Documentação Referências](https://www.terraform.io/language/expressions/references)

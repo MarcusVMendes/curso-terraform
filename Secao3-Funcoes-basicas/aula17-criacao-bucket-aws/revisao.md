@@ -1,0 +1,2 @@
+[Documentação Provider AWS](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+[Lista de Regiões AWS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html)

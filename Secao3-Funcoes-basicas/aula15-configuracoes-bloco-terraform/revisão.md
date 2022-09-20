@@ -1,0 +1,1 @@
+[Documentação Bloco Terraform](https://www.terraform.io/language/settings)
