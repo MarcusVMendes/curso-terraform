@@ -1,0 +1,1 @@
+Criados recursos na AWS s3 e Azure Storage Account na pasta infra.
