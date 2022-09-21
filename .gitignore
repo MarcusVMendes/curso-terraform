@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/terraform,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=terraform,python
 
+# SSH keys utilizadas no curso
+aws-key
+aws-key.pub
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
